@@ -6,7 +6,7 @@ Computer Science Student @ UWaterloo
 
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [awais.choudhary@uwaterloo.ca](mailto:awais.choudhary@uwaterloo.ca)
-* 🧠  I'm learning Tensorflow, NumPy, Django, JS, Go
+* 🧠  I'm learning Python, Tensorflow, NumPy, Django, JS, Go
 
 ### Skills
 
