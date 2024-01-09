@@ -26,6 +26,3 @@ Computer Science Student @ UWaterloo
 
 <a href="http://www.github.com/awaischoudhary"><img src="https://github-readme-stats.vercel.app/api?username=awaischoudhary&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="awaischoudhary's GitHub stats" /></a>
 
-<a href="http://www.github.com/awaischoudhary"><img src="https://github-readme-streak-stats.herokuapp.com/?user=awaischoudhary&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/awaischoudhary" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaischoudhary&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
